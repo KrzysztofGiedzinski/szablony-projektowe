@@ -4,7 +4,7 @@
 
 ---
 
-**Wersja:** 1.0\
+**Wersja:** 1.1\
 **Data:** 26 kwietnia 2026\
 **Wypełnia:** Klient wspólnie z Wykonawcą\
 **Dla:** Designer / Studio graficzne
@@ -21,7 +21,7 @@
 
 ### 1.2 Kim są użytkownicy?
 
-Typ użytkownikaWiekKontekst użyciaUrządzenie_________________\_ – \__\_ lat_______________Desktop / Mobile_________________\_ – \__\_ lat_______________Desktop / Mobile
+Typ użytkownikaWiekKontekst użyciaUrządzenie_________________\_ – \_*\_ lat_______________Desktop / Mobile_________________\_ – \_*\_ lat_______________Desktop / Mobile
 
 ### 1.3 Osobowość marki
 
@@ -103,7 +103,7 @@ MateriałDostępnyFormatUwagiLogo✅ / ❌Brand book / Brand guide✅ / ❌Szabl
 
 ### 3.3 Ekrany do zaprojektowania
 
-EkranPriorytetWariantyUwagiLogowanie🔴Desktop + MobileDashboard / Ekran główny🔴Desktop + Mobile______________\_🔴\______________\_🟡\______________\_🟡\______________\_🟢
+EkranPriorytetWariantyUwagiLogowanie🔴Desktop + MobileDashboard / Ekran główny🔴Desktop + Mobile______________\_🔴\_***\_🟡\_***\_🟡\______________\_🟢
 
 ### 3.4 Platformy i Rozdzielczości
 
@@ -189,4 +189,4 @@ Imię i NazwiskoFirmaRola______________\_{{KLIENT_FIRMA}}Ostateczna decyzja_____
 
 ---
 
-*Brief graficzny przygotowany przez \______________\_. Data: \______________\_*
+*Brief graficzny przygotowany przez \_**\_. Data: \_**\_*
