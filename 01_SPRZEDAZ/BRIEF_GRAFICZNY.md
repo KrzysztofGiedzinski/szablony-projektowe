@@ -30,7 +30,7 @@
 Zaznacz przymiotniki, które najlepiej opisują pożądany odbiór aplikacji:
 
 **Styl ogólny:**
-- [x] Profesjonalny i korporacyjny
+- [ ] Profesjonalny i korporacyjny
 - [ ] Przyjazny i przystępny
 - [ ] Nowoczesny i technologiczny
 - [ ] Minimalistyczny i prosty
