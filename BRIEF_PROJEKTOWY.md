@@ -1,7 +1,7 @@
 # 📋 Brief Projektowy — Aplikacja Web / Mobile / B2B
 
 > **Wersja:** 1.0  
-> **Data:** _______________  
+> **Data:** 26 kwietnia 2026  
 > **Wypełnia:** Klient wspólnie z zespołem projektowym  
 > **Projekt:** _______________
 
