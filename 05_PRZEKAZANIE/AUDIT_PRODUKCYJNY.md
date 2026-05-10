@@ -147,7 +147,7 @@
 - [ ] Logi aplikacji dostępne i przeszukiwalne
 - [ ] Dashboard monitoringu dostępny (`docs/monitoring/README.md`)
 
-### 5.5 Obsługa błędów — UX i zgłaszanie
+### 5.3 Obsługa błędów — UX i zgłaszanie
 
 > Szczegóły i wzorce kodu: `04_TECHNIKA/ERROR_REPORTING.md`
 
@@ -160,14 +160,14 @@
 - [ ] Przetestowano: biały ekran nie pojawia się w żadnym panelu
 - [ ] (dla projektów z ≥2 płacącymi klientami) Sentry skonfigurowany
 
-### 5.3 Backup i odtwarzanie
+### 5.4 Backup i odtwarzanie
 - [ ] Automatyczny backup danych skonfigurowany (co ___ godzin)
 - [ ] Backup przetestowany — odtworzenie danych zweryfikowane
 - [ ] Procedura rollback udokumentowana i przetestowana (`docs/deployment/README.md`)
 - [ ] RTO (Recovery Time Objective): ___ godzin — osiągalne
 - [ ] RPO (Recovery Point Objective): ___ godzin — osiągalne
 
-### 5.4 CI/CD
+### 5.5 CI/CD
 - [ ] Pipeline CI/CD skonfigurowany
 - [ ] Deploy na produkcję wymaga zatwierdzenia
 - [ ] Automatyczne testy uruchamiają się przy każdym PR
