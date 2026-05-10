@@ -147,6 +147,19 @@
 - [ ] Logi aplikacji dostępne i przeszukiwalne
 - [ ] Dashboard monitoringu dostępny (`docs/monitoring/README.md`)
 
+### 5.5 Obsługa błędów — UX i zgłaszanie
+
+> Szczegóły i wzorce kodu: `04_TECHNIKA/ERROR_REPORTING.md`
+
+- [ ] `src/app/error.tsx` — istnieje, ma 3-krokową instrukcję dla użytkownika
+- [ ] `src/app/global-error.tsx` — istnieje (owinięty w `<html><body>`)
+- [ ] `src/app/not-found.tsx` — istnieje, ma link powrotny
+- [ ] Każdy izolowany panel (`/installer`, `/admin`, itp.) ma własny `error.tsx`
+- [ ] Przycisk „Zgłoś błąd" otwiera email z pre-wypełnioną diagnostyką (URL, czas, kod błędu, user agent)
+- [ ] Email w `mailto:` jest aktualny i należy do dewelopera/supportu
+- [ ] Przetestowano: biały ekran nie pojawia się w żadnym panelu
+- [ ] (dla projektów z ≥2 płacącymi klientami) Sentry skonfigurowany
+
 ### 5.3 Backup i odtwarzanie
 - [ ] Automatyczny backup danych skonfigurowany (co ___ godzin)
 - [ ] Backup przetestowany — odtworzenie danych zweryfikowane
